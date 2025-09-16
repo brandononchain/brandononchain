@@ -4,7 +4,7 @@
 Pioneering at the intersection of **AI, Web3, Fintech, and Trading**  
 
 [![GitHub followers](https://img.shields.io/github/followers/brandononchain?label=Follow&style=social)](https://github.com/brandononchain)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrandonAi22033?style=social)](https://x.com/brandononchain)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/brandononchain?style=social)](https://x.com/brandononchain)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/brandononchain)  
 
 ---
