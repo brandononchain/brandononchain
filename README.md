@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Brandon**
+# 👋 Hey, I’m Brandon
 
 🚀 Founder • Builder • Quant • Designer  
 Pioneering at the intersection of **AI, Web3, Fintech, and Trading**  
@@ -10,9 +10,9 @@ Pioneering at the intersection of **AI, Web3, Fintech, and Trading**
 ---
 
 ## 🧠 What I Do
-- ⚡ **AI Systems** – Building advanced AI agents & research models (QuantraAI, ReclaimGPT, prompty.fun)  
+- ⚡ **AI Systems** – Building advanced AI agents & research models
 - 🌐 **Web3 / Blockchain** – Founder of [**SocialBlock**](https://docs.socialblock.io), the first AI-native Layer 1 for **identity, reputation & SocialFi**  
-- 📊 **Quant & Trading** – PineScript strategies, MT5 bridges, copy trading bots, arbitrage scanners, and AI-driven quant signals  
+- 📊 **Quant & Trading** – PineScript strategies, MT5 expert advisors, copy trading bots, arbitrage scanners, and AI-driven quant signals  
 - 💻 **SaaS & Automation** – Rapid prototyping with **n8n, Bolt.new, Lovable.dev, Emergent.sh**, and custom full-stack builds  
 - 🎨 **Design & Branding** – Figma, Framer, 3D assets, UI/UX for fintech & Web3 ecosystems  
 
@@ -28,8 +28,8 @@ Pioneering at the intersection of **AI, Web3, Fintech, and Trading**
 
 ## ⚙️ Tech & Tools
 ```yaml
-Languages: Python • TypeScript • Solidity • PineScript • SQL • React
-Frameworks: LangChain • Flask • FastAPI • Cosmos SDK • CometBFT
+Languages: Python • TypeScript • Solidity • PineScript • SQL • HTML • CSS
+Frameworks: LangChain • Flask • FastAPI • Cosmos SDK • CometBFT • React
 Databases: Supabase • Firebase • PostgreSQL • Pinecone • MongoDB
-Platforms: n8n • Bolt.new • Lovable.dev • Emergent.sh • Framer • Figma
-Other: TradingView • MT5/MT4 • Fireblocks • TensorFlow • Docker
+Platforms: n8n • Bolt.new • Lovable.dev • Emergent.sh • Framer • Figma • Cursor • VSCode
+Other: TradingView • MT5/MT4 • Fireblocks • TensorFlow • Docker • Google Cloud
