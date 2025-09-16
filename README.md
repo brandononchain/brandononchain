@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Brandon
 
-Front-End Developer | UI/UX | Product Manager •
-Pioneering at the intersection of **AI, Web3, Fintech, and Trading**  
+Front-End Developer | UI/UX | Product Manager - 
+ Pioneering at the intersection of **AI, Web3, Fintech, and Trading**  
 
 ## 📲 Connect with Me
 [![GitHub followers](https://img.shields.io/github/followers/brandononchain?label=Follow&style=social)](https://github.com/brandononchain)  
