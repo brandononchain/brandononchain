@@ -1,10 +1,10 @@
-# 👋 Hey, I’m Brandon — aka **OnChain**
+# 👋 Hey, I’m Brandon**
 
 🚀 Founder • Builder • Quant • Designer  
 Pioneering at the intersection of **AI, Web3, Fintech, and Trading**  
 
 [![GitHub followers](https://img.shields.io/github/followers/brandononchain?label=Follow&style=social)](https://github.com/brandononchain)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrandonAi22033?style=social)](https://x.com/BrandonAi22033)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/BrandonAi22033?style=social)](https://x.com/brandononchain)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/brandononchain)  
 
 ---
@@ -20,11 +20,9 @@ Pioneering at the intersection of **AI, Web3, Fintech, and Trading**
 
 ## 🔭 Featured Projects
 - 🌌 **[SocialBlock](https://docs.socialblock.io)** – AI-powered L1 blockchain with ARP (AI Reputation Proof) consensus  
-- 🤖 **[Quantra Labs](https://www.quantralabs.com)** – AI + automation consultancy ("Precision is Our Mantra. Evolution is Our Code.")  
-- 💼 **Monetario** – Next-gen stablecoin-powered payments platform with Fireblocks infra  
+- 🤖 **[Quantra Labs](https://www.quantralabs.com)** – AI + automation consultancy ("Precision is Our Mantra. Evolution is Our Code.")   
 - 📈 **GoldX Quant Agent** – AI-driven intraday trading agent for Gold, indices, and crypto  
-- 📬 **[Gmail MCP Agent](https://github.com/brandononchain/GMAIL-MCP-Agent)** – 24/7 automated lead nurturing system  
-- 🧩 **VibeTools** – Micro-AI SaaS marketplace  
+- 📬 **[Gmail MCP Agent](https://github.com/brandononchain/GMAIL-MCP-Agent)** – 24/7 automated lead nurturing system 
 
 ---
 
