@@ -29,8 +29,8 @@ Front-End Developer | UI/UX | Product Manager -
 
 ## ⚙️ Tech & Tools
 ```yaml
-Languages: Python • TypeScript • Solidity • PineScript • SQL • HTML • CSS
-Frameworks: LangChain • Flask • FastAPI • Cosmos SDK • CometBFT • React
+Languages: Python • TypeScript • Solidity • PineScript • SQL • HTML • CSS • Javascript
+Frameworks: LangChain • Flask • FastAPI • Cosmos SDK • CometBFT • React • Next.js • Node.js • Chart.js • Tailwind CSS • Web3.js • Ether.js
 Databases: Supabase • Firebase • PostgreSQL • Pinecone • MongoDB
-Platforms: n8n • Bolt.new • Lovable.dev • Emergent.sh • Framer • Figma • Cursor • VSCode
-Other: TradingView • MT5/MT4 • Fireblocks • TensorFlow • Docker • Google Cloud
+Platforms: n8n • Bolt.new • Lovable.dev • Emergent.sh • Framer • Figma • Cursor • VSCode • GitHub • GitBook • Notion • Airtable • Salesforce • ChatGPT • Claude • Gemini
+Other: TradingView • MT5/MT4 • Fireblocks • TensorFlow • Docker • Google Cloud • Vercel • Netlify • Azure • AWS • Microsoft • VPS • Clerk
