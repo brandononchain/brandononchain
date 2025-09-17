@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Brandon
 
-Front-End Developer | UI/UX | Product Manager - 
+Front-End Dev | UI/UX | Quant - 
  Pioneering at the intersection of **AI, Web3, Fintech, and Trading**  
 
 ## 📲 Connect with Me
