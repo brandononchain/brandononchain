@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Brandon
 
 Front-End | UI/UX | Biz Dev - 
- Pioneering at the intersection of **AI, Web3, Fintech, and Trading**  
+ Building in **AI, Blockchain, and Fintech**  
 
 ## 📲 Connect with Me
 [![GitHub followers](https://img.shields.io/github/followers/brandononchain?label=Follow&style=social)](https://github.com/brandononchain)  
