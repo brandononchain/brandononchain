@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Brandon
 
-Product Developer - 
+AI Product Engineer - 
  Building in **AI, Blockchain, and Fintech**  
 
 ## 📲 Connect with Me
@@ -23,33 +23,103 @@ Product Developer -
 
 ## ⚙️ Tech & Tools
 
-Languages:
-Python • TypeScript • JavaScript • Solidity • Pine Script • SQL • HTML • CSS • Rust
+**Languages**
+- Python
+- TypeScript
+- JavaScript
+- Solidity
+- Rust
+- Pine Script
+- SQL
+- HTML / CSS
 
-Frameworks & Libraries:
-React • Next.js • Node.js • Flask • FastAPI • LangChain • Cosmos SDK • CometBFT • Web3.js • Ethers.js • Tailwind CSS • Chart.js
+**Frameworks & Libraries**
+- React
+- Next.js
+- Node.js
+- Flask
+- FastAPI
+- LangChain
+- Cosmos SDK
+- CometBFT
+- Web3.js
+- Ethers.js
+- Tailwind CSS
+- Chart.js
 
-Databases & Data:
-PostgreSQL • Supabase • Neon • Firebase • MongoDB • Pinecone (Vector DB)
+**Databases & Data**
+- PostgreSQL
+- Supabase
+- Neon
+- Firebase
+- MongoDB
+- Pinecone (Vector DB)
 
-AI & Machine Learning:
-OpenAI / ChatGPT • Claude • Gemini • TensorFlow • LLM APIs • Prompt Engineering • AI Agents • Embeddings • Vector Search • OpenClaw / Molty
+**AI & Machine Learning**
+- OpenAI / ChatGPT
+- Claude
+- Gemini
+- TensorFlow
+- LLM APIs
+- Prompt Engineering
+- AI Agents
+- Embeddings
+- Vector Search
+- OpenClaw / Molty
 
-Blockchain & Web3:
-Ethereum • Solana • Cosmos • Smart Contracts • DeFi • On-chain Integrations • Fireblocks • Web3 Infrastructure
+**Blockchain & Web3**
+- Ethereum
+- Solana
+- Cosmos
+- Smart Contracts
+- DeFi
+- On-chain Integrations
+- Fireblocks
+- Web3 Infrastructure
 
-Trading & Quant:
-TradingView • MT4 / MT5 • NinjaTrader • Algorithmic Trading • Quantitative Analysis • Risk Management • Indicator Design
+**Trading & Quant**
+- TradingView
+- MT4 / MT5
+- NinjaTrader
+- Algorithmic Trading
+- Quantitative Analysis
+- Risk Management
+- Indicator Design
 
-Automation & No-Code:
-n8n • Zapier • Bolt.new • Lovable.dev • Emergent.sh • Airtable
+**Automation & No-Code**
+- n8n
+- Zapier
+- Bolt.new
+- Lovable.dev
+- Emergent.sh
+- Airtable
 
-Cloud & DevOps:
-Docker • AWS • Google Cloud • Azure • Vercel • Netlify • VPS • Self-Hosted Infrastructure
+**Cloud & DevOps**
+- Docker
+- AWS
+- Google Cloud
+- Azure
+- Vercel
+- Netlify
+- VPS
+- Self-Hosted Infrastructure
 
-Product & Workflow:
-Figma • Framer • GitHub • CodeSpace • GitBook • Cursor • VS Code • Notion
+**Product & Workflow**
+- Figma
+- Framer
+- GitHub
+- Codespace
+- GitBook
+- Cursor
+- VS Code
+- Notion
 
-Auth & Enterprise:
-Clerk • Privy • Salesforce • Hubspot • Microsoft Ecosystem • Google Workspace
+**Auth & Enterprise**
+- Clerk
+- Privy
+- Salesforce
+- HubSpot
+- Microsoft Ecosystem
+- Google Workspace
+
 
