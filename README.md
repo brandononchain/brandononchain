@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Brandon
 
 AI Product Engineer - 
- Building in **AI, Blockchain, and Fintech**  
+ Building AI, Blockchain, and FinTech systems**  
 
 ## 📲 Connect with Me
 [![GitHub followers](https://img.shields.io/github/followers/brandononchain?label=Follow&style=social)](https://github.com/brandononchain)  
