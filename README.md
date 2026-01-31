@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Brandon
 
-Front-End | UI/UX | Biz Dev - 
+Product Developer - 
  Building in **AI, Blockchain, and Fintech**  
 
 ## 📲 Connect with Me
